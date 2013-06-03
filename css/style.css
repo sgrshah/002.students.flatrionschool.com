@@ -1321,6 +1321,10 @@ h3#comments {
     padding-bottom: 80px;
 }
 
+.section-services.student-index {
+    padding-bottom: 0px;
+}
+
 .section-portfolio {
     padding-bottom: 45px;
 }
