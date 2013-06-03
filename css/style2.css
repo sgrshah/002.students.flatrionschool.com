@@ -36,3 +36,13 @@ img {
 .services h3 {
     border-bottom: 1px dotted #e6e6e6;
 }
+
+.student_profile h1 {
+    margin: 0;
+    color: #60BDDB;
+}
+
+.ok-twitter {
+    margin-top: 15px;
+}
+
