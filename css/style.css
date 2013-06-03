@@ -135,10 +135,7 @@ blockquote p:before {
     color: #222;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
-}
+
 
 /* ===[ Layout Styles ]===================================================== */
 

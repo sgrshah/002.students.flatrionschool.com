@@ -1,3 +1,31 @@
 .ok-twitter {
   width: 20%;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.student_profile hr {
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+.student_profile h2 {
+	font-size: 1.5em;
+	margin-bottom: 5px;
+}
+
+.student_profile img {
+    float: left;
+    margin: 0px 10px 0px 0px;
+}
+/*.student_profile h2 {
+    padding: 0px 10px 0px 0px;
+}
+*/
+
+.student_profile p {
+    font-size: 0.85em;
+}
