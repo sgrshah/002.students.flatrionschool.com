@@ -1,5 +1,4 @@
 .ok-twitter {
-  width: 20%;
 }
 
 img {
@@ -28,4 +27,12 @@ img {
 
 .student_profile p {
     font-size: 0.85em;
+}
+
+.services p {
+    border-top: 0;
+}
+
+.services h3 {
+    border-bottom: 1px dotted #e6e6e6;
 }
