@@ -4,20 +4,26 @@ img {
 }
 
 .student_profile hr {
-	margin-bottom: 15px;
-	margin-top: 15px;
+  margin-bottom: 15px;
+  margin-top: 15px;
 }
 
 .student_profile h2 {
-	font-size: 1.5em;
-	margin-bottom: 5px;
+  font-size: 1.5em;
+  margin-bottom: 5px;
 }
 
 .student_profile img {
     float: left;
-    margin: 0px 10px 0px 0px;
-    padding: 5px;
-    background-color: yellow;
+    margin-right: 13px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    /*border:5px solid #F4FA58;*/
+    border: 5px solid #E6E6E6;
+    /*-webkit-box-shadow: #F2F2F2 3px 3px 3px;
+    -moz-box-shadow: #F2F2F2 3px 3px 3px; 
+    box-shadow: #F2F2F2 3px 3px 3px;*/
     transition: all .5s ease;
 }
 
@@ -26,14 +32,10 @@ img {
     transform: rotate(180deg);
 }
 
-/*.student_profile h2 {
+
+.student_profile h2 {
     padding: 0px 10px 0px 0px;
 }
-*/
-
-/*.student_profile p {
-    font-size: 0.85em;
-}*/
 
 .services p {
     border-top: 0;
@@ -47,7 +49,7 @@ img {
 
 .student_profile h1 {
     margin: 0;
-    color: #60BDDB;
+    color: #00BFFF;
 }
 
 .chirp p {
@@ -57,3 +59,13 @@ img {
 .twitter-handle {
     margin-bottom: 0;
 }
+
+
+/*.ok-text-column-4 p {
+    margin-top: 5px;
+}*/
+
+.section {
+    margin-top: 5px;
+}
+
