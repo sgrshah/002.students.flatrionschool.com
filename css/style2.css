@@ -16,7 +16,16 @@ img {
 .student_profile img {
     float: left;
     margin: 0px 10px 0px 0px;
+    padding: 5px;
+    background-color: yellow;
+    transition: all .5s ease;
 }
+
+.student_profile img:hover {
+    transform: scale(1.5);
+    transform: rotate(180deg);
+}
+
 /*.student_profile h2 {
     padding: 0px 10px 0px 0px;
 }
