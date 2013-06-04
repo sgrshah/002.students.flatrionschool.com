@@ -24,12 +24,15 @@ img {
     /*-webkit-box-shadow: #F2F2F2 3px 3px 3px;
     -moz-box-shadow: #F2F2F2 3px 3px 3px; 
     box-shadow: #F2F2F2 3px 3px 3px;*/
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
     transition: all .5s ease;
 }
 
 .student_profile img:hover {
-    transform: scale(1.5);
-    transform: rotate(180deg);
+    -webkit-transform: scale(0.5) rotate(180deg);
+    -moz-transform: scale(0.5) rotate(180deg);
+    transform: scale(0.5) rotate(180deg);
 }
 
 
